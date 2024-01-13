@@ -21,7 +21,7 @@
 * **Binary classification approach** with Buy/Sell prediction
 * **Evaluation metric:** AUC score
 
-## -------------------------------------------------------------------------------------- ##
+## ------------------------------------------------------------------------------ ##
 
 **Developed by**
 - Natthita Tangsriwong 6520422014
