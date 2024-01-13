@@ -21,11 +21,11 @@
 * **Binary classification approach** with Buy/Sell prediction
 * **Evaluation metric:** AUC score
 
-## ------------------------------------------------------------------------------------------- ##
+## -------------------------------------------------------------------------------------- ##
 
 **Developed by**
-- Pitchayapa Chuwattanawit 6520422014
-- Natthita Tangsriwong 6520422024
+- Natthita Tangsriwong 6520422014
+- Pitchayapa Chuwattanawit 6520422024
 - Thanyalak Limsukhawat 6520422030
 
 
